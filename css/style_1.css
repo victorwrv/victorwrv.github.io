@@ -1,0 +1,218 @@
+.anuncio /*OK*/
+{
+	float: left;
+	width: 100%;
+	height: 48px;
+	background: white;
+	background-image: url("faixa_superior.PNG");
+	background-repeat: no-repeat;			
+	background-color: white;
+	background-size: 1296px;
+	background-position: center 0px;
+}
+/*------------------------------------ FAIXA DE CABEÇALHO VERMELHA -------------------------------*/
+.fundocabecalho /*OK*/
+{
+	float: left;
+	width: 100%;
+	height: 85.38px;
+	background-size:100%;
+	background-color: #e60014;		
+	background-repeat: no-repeat;
+}
+
+.cabecalho /*OK*/
+{
+	float: left;
+	width: 1256px;
+	height: 85.38px;
+	background-size:100%;
+	background-color:#e60014;		
+	background-repeat: no-repeat;
+	margin-left: 27.5px;
+}
+
+.logo
+{
+	float: left;
+	width: 18%;
+	height:46px;
+	background-image: url("logo_2.PNG");
+	background-size: 100%;
+	background-repeat: no-repeat;
+	background-position:left;
+	margin-top: 21px;
+	margin-left: -6px;
+}
+
+.caixapesquisa /*OK*/
+{
+	float: left;
+	width: 700px;
+	background-size: 100%;
+	height: 47px;
+	background-repeat: no-repeat;
+	background-color:white;
+	margin-left: 34px;
+	margin-top: 19.19px;
+}
+.lupa
+{
+	float: right;
+	height: 92%;
+	width: 47px;
+	margin-top: 4px;
+	padding-right: 2px;
+}
+
+.textobusca
+{
+	height:35px;
+	width:90%;
+	float:left;
+	background-color: transparent;
+	padding-top: 6px;
+    padding-left:1em ;
+    font-size: 1em;
+    border-style: none;
+}
+
+.login
+{
+	float: left;
+	width: 21.5%;
+	height:47px;
+	background-image: url("caixa_de_login.PNG");
+	background-size: 100%;
+	background-repeat: no-repeat;
+	background-position:left;
+	margin-top: 21px;
+	margin-left: 18px;
+	
+}
+
+.fundomenu/*OK*/
+{
+	float: left;
+	width: 100%;
+	height: 43px;
+	background-color: white;
+	border-bottom-width: 2px;
+	border-bottom-style: solid;
+	border-bottom-color: rgb(229, 229, 229);
+}
+
+/*------------------------FIM DA FAIXA DE CABEÇALHO VERMELHA----------*/
+
+/* -----------------------MEU NA FAIXA BRANCA-------------------------*/
+.letra
+{
+	float: left;
+	font-family: arial;
+	color: #666;
+	font-size: .875em;
+	text-align: center;
+	padding-top: 12px;
+	height:44px;
+}
+
+.departamento
+{
+	float: left;
+	background-image: url("compre_por_dpto.PNG");
+	background-size: 100%;
+	background-repeat: no-repeat;
+	background-position: center;
+	width: 15%;
+	height:44px;
+	margin-left: 27.5px;
+}
+
+.sejaprime
+{
+	float: left;
+	background-image: url("seja_prime.PNG");
+	background-size: 100%;
+	background-repeat: no-repeat;
+	background-position: center;
+	width: 8%;
+	height:44px;
+}
+
+.votenagente
+{
+	width: 10%;
+}
+
+.baixeoapp
+{
+	width: 8%;
+}
+
+.peguenaloja
+{
+	width: 10%;
+}
+
+.morarmais
+{
+	width: 12%;
+}
+
+.ganheate
+{
+	width: 13%;
+}
+
+.cupom
+{
+	width: 6%;
+}
+
+.aoferta
+{
+	float: left;
+	float: left;
+	background-image: url("a_oferta.PNG");
+	background-size: 100%;
+	background-repeat: no-repeat;
+	background-position: center;
+	width: 10%;
+	height:44px;
+	
+}
+/*---------------------------------------------- FIM DO MENU FAIXA BRANCA ---------------------*/
+.banner
+{
+	float: left;
+	width: 100%;
+	height: 181px;
+	background-repeat: no-repeat;
+	background-color: white;
+	background-size: 1256px;
+	background-image: url("img_resp_4.PNG");
+	background-position: center;											
+}
+
+.carrocel
+{
+	float: left;
+	width: 100%;
+	height: 315px;
+	background-repeat: no-repeat;
+	background-color: white;
+	background-size: 1260px;
+	background-image: url("img_normal_2.PNG");
+	background-position: center;	
+}
+
+.corpo
+{
+	float: left;
+	width: 100%;
+	height: 1000px;
+	background-color: white;
+}
+
+
+body{margin:0;}
