@@ -1,0 +1,258 @@
+@media screen and (max-width: 480px)
+{
+	
+	div.letra
+	{
+		float: left;
+		font-family: arial;
+		color: #666;
+		font-size: .875em;
+		text-align: center;
+		padding-top: 15px;
+		height:47px;
+	}
+
+	div.anuncio
+	{
+		display: none;
+	}
+
+	div.votenagente
+	{
+		width: 20%;
+		float: right;
+	}
+
+	div.baixeoapp
+	{
+		
+		width: 20%;
+		float: right;
+	}
+
+	div.peguenaloja
+	{
+		display: none;
+	}
+
+	div.morarmais
+	{
+		display: none;
+	}
+
+	div.ganheate
+	{
+		display: none;
+	}
+
+	div.cupom
+	{
+		display: none;
+	}
+
+	div.departamento
+	{
+		display: none;
+	}
+
+	div.sejaprime
+	{
+		float: left;
+		width: 25%;
+		height:44px;
+		background-image: url("seja_prime.PNG");
+		background-size: 90%;
+		background-repeat: no-repeat;
+		background-position: center;
+		margin-left: 3px;
+	}
+
+	div.aoferta
+	{
+		float: left;
+		display: inline-block;
+	    padding: 15px 0 0 22px;
+	    color: #e60014;
+	    font-weight: 700;
+	    font-size: .875em;
+	    text-transform: lowercase;
+	    font-family: arial;			
+	}
+
+	div.fundomenu/*OK*/
+	{
+		float: left;
+		width: 100%;
+		height: 46px;
+		background-color: white;
+		border-bottom-width: 2px;
+		border-bottom-style: solid;
+		border-bottom-color: rgb(229, 229, 229);
+		background-size: 100%;
+	}
+
+	div.banner
+	{
+		float: left;
+		width: 100%;
+		height: 129.25px;
+		background-repeat: no-repeat;
+		background-color: white;
+		background-size: 421px;
+		background-image: url("banner_resp_1.2.PNG");
+		background-position: center;
+	}
+
+	div.carrocel
+	{
+		float: left;
+		width: 100%;
+		height: 222.5px;
+		background-repeat: no-repeat;
+		background-color: white;
+		background-size: 100%;
+		background-image: url("img_resp_2.PNG");
+		background-position: center;
+		
+	}
+
+	div.fundocabecalho
+	{
+		float: left;
+		width: 100%;
+		height: 96.59px;
+		background-size:100%;
+		background-color: #e60014;		
+		background-repeat: no-repeat;
+	}
+
+	div.cabecalho /*OK*/
+	{
+		float: left;
+		width: 100%;
+		height: 96.59px;
+		background-size:100%;
+		background-color:#e60014;		
+		background-repeat: no-repeat;
+		margin-left: 10px;
+	}
+
+	div.barra1
+	{
+		float: left;
+		width: 21px;
+		height: 2px;
+		background-color: green;
+		margin: 1px;
+		
+	}
+
+/*	div.barra2
+	{
+		position: absolute;
+		width: 21px;
+		height: 2px;
+		background-color: #e60014;
+		margin-left:-25px;
+		margin-top:-9px;
+	}
+
+	div.barra3
+	{
+		position: absolute;
+		width: 21px;
+		height: 2px;
+		background-color: #e60014;
+		margin-left:-25px;
+		margin-top:-3px;
+	}
+*/
+	div.departamento
+	{
+		
+	}
+
+	div.logo
+	{
+		
+		width: 155px;
+		height:23.5px;
+		background-image: url("logo_2.PNG");
+		background-size: 100%;
+		background-repeat: no-repeat;
+		background-position:left;
+		margin-top: 10px;
+		margin-left: 34px;
+		
+	}
+
+	div.caixapesquisa /*OK*/
+	{
+		width: 425px;
+		background-size: 100%;
+		height: 39px;
+		background-repeat: no-repeat;
+		background-color:white;
+		margin-left: 0px;
+		margin-top: 13px;
+	}
+
+	img.lupa
+	{
+		float: right;
+		height: 92%;
+		width: 39px;
+		margin-top: 0px;
+		padding-right:6px;
+		padding-top: 2px;
+	}
+
+	input.textobusca /*OK*/
+	{
+		height:35px;
+		width:50%;
+		float:left;
+		background-color: transparent;
+		padding: .16em 3.3em .4em .4em;
+	    font-size: 1em;
+	    border-style: none;
+
+	}
+
+	div.iconelogin
+	{
+		float: right;
+		width: 48px;
+		height: 46px;
+		background-size:69%;
+		background-image: url("login_icon.PNG");
+		background-repeat:no-repeat;
+		margin-top: -78px;
+		margin-right: 53px;
+	}
+
+	div.login
+	{
+		display: none;
+	}
+
+	div.cadastro
+	{
+		display: none;
+	}
+
+	div.cesta
+	{
+		float: right;
+		background-image: url("cesta.PNG");
+		background-repeat: no-repeat;
+		background-size: 82%;
+		width: 33.11px;
+		height: 33.11px;
+		margin-right: 20px;
+		margin-top: -72px;
+	}
+
+	
+
+}
