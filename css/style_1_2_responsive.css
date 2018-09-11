@@ -71,12 +71,12 @@
 	{
 		float: left;
 		display: inline-block;
-	    padding: 15px 0 0 22px;
-	    color: #e60014;
-	    font-weight: 700;
-	    font-size: .875em;
-	    text-transform: lowercase;
-	    font-family: arial;			
+	    	padding: 15px 0 0 22px;
+	   	color: #e60014;
+	   	font-weight: 700;
+		font-size: .875em;
+	   	text-transform: lowercase;
+	   	font-family: arial;			
 	}
 
 	div.fundomenu/*OK*/
@@ -190,7 +190,7 @@
 
 	div.caixapesquisa /*OK*/
 	{
-		width: 80%;
+		width: 90%;
 		background-size: 100%;
 		height: 39px;
 		background-repeat: no-repeat;
@@ -212,7 +212,7 @@
 	input.textobusca /*OK*/
 	{
 		height:35px;
-		width:50%;
+		width:80%;
 		float:left;
 		background-color: transparent;
 		padding: .16em 3.3em .4em .4em;
